@@ -8,9 +8,10 @@ The project started with a pre-built SDN Controller environment provided by HPE,
 
 The project was then expanded by installing and exploring different SDN controller platforms, including:
 
-OpenDaylight (ODL)
-ONOS
-Ryu
+
+1.OpenDaylight (ODL)
+2.ONOS
+3.Ryu
 
 The main objective was to understand how SDN Controllers communicate with and manage network devices through OpenFlow and other southbound interfaces.
 
