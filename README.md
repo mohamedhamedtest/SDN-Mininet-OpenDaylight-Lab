@@ -14,7 +14,7 @@ Ryu
 
 The main objective was to understand how SDN Controllers communicate with and manage network devices through OpenFlow and other southbound interfaces.
 
-Project Components
+# Project Components
 Mininet
 Virtual network topology
 Open vSwitch (OVS)
@@ -24,29 +24,34 @@ SDN Controllers
 OpenDaylight (ODL)
 ONOS
 Ryu
-Network Management Methods
-CLI — Command Line Interface
-REST API / URL — Accessing and managing the controller through web-based interfaces
-Web GUI — Graphical management through a browser
-Python — Network automation and controller interaction
-Project Workflow
-Deploy the pre-configured HPE SDN Controller environment.
-Connect and control Mininet virtual switches and hosts.
-Build and test SDN network topologies.
-Install and explore different SDN Controllers.
-Configure OpenDaylight and its required components.
-Connect the controller with Mininet/Open vSwitch using OpenFlow.
-Explore different methods of interacting with the SDN environment:
-CLI
-REST/URL
-Web GUI
-Python
-Monitor network nodes, ports, flows, and statistics.
-Document the complete setup and experiments.
-Technologies
+
+# Network Management Methods
+
+1.CLI — Command Line Interface
+2.REST API / URL — Accessing and managing the controller through web-based interfaces
+3.Web GUI — Graphical management through a browser
+4.Python — Network automation and controller interaction
+
+# Project Workflow
+
+1.Deploy the pre-configured HPE SDN Controller environment.
+2.Connect and control Mininet virtual switches and hosts.
+3.Build and test SDN network topologies.
+4.Install and explore different SDN Controllers.
+5.Configure OpenDaylight and its required components.
+6.Connect the controller with Mininet/Open vSwitch using OpenFlow.
+7.Explore different methods of interacting with the SDN environment:
+.CLI
+.REST/URL
+.Web GUI
+.Python
+8.Monitor network nodes, ports, flows, and statistics.
+9.Document the complete setup and experiments.
+
+# Technologies
 
 SDN · Mininet · Open vSwitch · OpenFlow · OpenDaylight · ONOS · Ryu · RESTCONF · Python · Linux/Ubuntu
 
-Project Documentation
+# Project Documentation
 
 The repository also includes the project presentation, installation steps, configurations, experiments, and screenshots demonstrating the SDN environment and controller interaction.
